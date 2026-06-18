@@ -1,5 +1,8 @@
 <div align="center">
 
+  <!-- Banner goes here once you have one. A 1280x320 hero with the logo
+       lifts this page more than anything else.  -->
+
   # Strange Tech
 
   **We build digital products.**
@@ -28,12 +31,34 @@ Fifteen products shipped across the UK, Europe, the US and MENA, spanning propte
 
 ### How we build
 
-- **Web & CMS:** WordPress, Etch, Cwicly, Contact Form 7
-- **Backend:** Laravel, PHP, Filament
-- **Mobile:** Flutter & Dart, NativeScript
-- **Frontend:** React, TypeScript
-- **Cloud & infrastructure:** AWS, DigitalOcean, Laravel Forge
-- **Data & analytics:** Firebase, BigQuery
+**Web & CMS**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Etch](https://img.shields.io/badge/Etch-475569?style=flat-square)
+![Cwicly](https://img.shields.io/badge/Cwicly-475569?style=flat-square)
+![Contact Form 7](https://img.shields.io/badge/Contact%20Form%207-475569?style=flat-square)
+
+**Backend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-475569?style=flat-square)
+
+**Mobile**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![NativeScript](https://img.shields.io/badge/NativeScript-3655FF?style=flat-square&logo=nativescript&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Cloud & infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Laravel Forge](https://img.shields.io/badge/Laravel%20Forge-475569?style=flat-square)
+
+**Data & analytics**
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 
 ### Work with us
 
