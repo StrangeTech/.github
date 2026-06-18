@@ -1,9 +1,6 @@
 <div align="center">
 
-  <!-- Banner goes here once you have one. A 1280x320 hero with the logo
-       lifts this page more than anything else.  -->
-
-  # Strange Tech
+  <img src="strangetech_cover.jpeg" alt="Strange Tech" width="100%" />
 
   **We build digital products.**
   For ambitious teams, agencies and founders.
